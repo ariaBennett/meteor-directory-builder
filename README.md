@@ -12,4 +12,4 @@ Installation:
   Add the following lines to your ~/.bashrc file to use mdb from anywhere:
 
   # meteor-directory-builder alias
-  alias mdb=~/meteor-directory-builder/mdb.sh
+  alias mdb=(replace this with the path to mdb.sh)
